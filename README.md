@@ -5,14 +5,10 @@ Software game is a kind of application that is used not only for entertainment, 
 
 
 Team Members:
-
 Dev Vora (Student-KJSCE)
-
 Ansh Mehta (Student-KJSCE)
-
 Jay Khatri (Student-KJSCE)
-
 Jainam Zobaliya (Student-KJSCE)
 
-Follow the below link: for downloading apk
+Follow the below link: For downloading apk
 ###### https://game-dise-apk.herokuapp.com/
